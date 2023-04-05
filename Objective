@@ -1,0 +1,6 @@
+•	Problem Statement: Booking cancellations have a substantial impact in demand-management decisions in the hospitality industry. Using data  sets  from  two  resort  hotels  and  addressing  booking cancellation prediction as a classification problem in the scope of data science, it is possible to  build models for predicting booking cancellations  with  accuracy results  in excess  of  90%. 
+ 
+•	Working: Missing value treatment, EDA process, Feature engineering, Descriptive statistics to find outliers, Hypothesis testing, RandomForestClassifier.
+
+
+•	Outcomes Consumers are always looking for ways to minimize their cost of buying something, so if they found out that they can buy the same thing at a lower price than they paid for, they would attempt to cancel and repurchase, and that’s what usually happens with hotel bookings. 
